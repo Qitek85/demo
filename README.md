@@ -1,5 +1,2 @@
 # Demo project
 asdasd
-
-
-pppppppp
